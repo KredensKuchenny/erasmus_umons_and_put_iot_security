@@ -1,0 +1,17 @@
+.button-width {
+    width: 160px
+}
+
+.button-width-100 {
+    width: 100px
+}
+
+.display-none {
+    display: none
+}
+
+.buttons-display {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
