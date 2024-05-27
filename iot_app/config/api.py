@@ -1,5 +1,5 @@
 api_config = {
-    "url": "https://iot-api.my.page",
+    "url": "https://iot-api.example.com",
     "token_time": 29,
     "login_headers": {
         "accept": "application/json",
