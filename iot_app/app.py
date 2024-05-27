@@ -24,7 +24,7 @@ app.layout = html.Div(
         dcc.Store(id="login-time-storage", storage_type="session"),
         dcc.Interval(id="refresh-trigger", interval=5000),
         html.Br(),
-        html.P("iot-app.cebulowe.it", className="text-dark text-center fw-bold fs-1"),
+        html.P("iot-app.example.com", className="text-dark text-center fw-bold fs-1"),
         html.Div(id="page-links", className="text-center"),
         dash.page_container,
     ],
